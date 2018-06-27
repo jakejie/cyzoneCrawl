@@ -8,8 +8,8 @@ proxyHost = "http-dyn.abuyun.com"
 proxyPort = "9020"
 proxyServer = "http://http-dyn.abuyun.com:9020"
 # 代理隧道验证信息
-proxyUser = "****"
-proxyPass = "***"
+proxyUser = "HCHFGX036Q42YDZD"
+proxyPass = "0990320559BDF4FA"
 proxyAuth = "Basic " + base64.urlsafe_b64encode(bytes((proxyUser + ":" + proxyPass), "ascii")).decode("utf8")
 
 
